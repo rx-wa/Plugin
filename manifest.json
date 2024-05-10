@@ -1,0 +1,15 @@
+{
+  "name": "Custom Status Manager",
+  "id": "com.serstars.customstatusmanager",
+  "version": "1.0.0",
+  "description": "Easily manage multiple custom statuses.",
+  "authors": [
+    {
+      "name": "SerStars",
+      "id": "861631850681729045"
+    }
+  ],
+  "color": "#1E90FF",
+  "source": "https://github.com/YourGitHubUsername/CustomStatusManager",
+  "main": "src/index.js"
+}
